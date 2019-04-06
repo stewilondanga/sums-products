@@ -16,6 +16,7 @@ body {
   position: absolute;
   top: 525px;
   left: 25px;
+  z-index: 10;
 }
 
 .my_social a {
