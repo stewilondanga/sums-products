@@ -60,7 +60,11 @@ sub.sum {
   top: 0
 }
 
-/*sup.sum{bottom:1.1em}span:hover{color:#E53935}
+sup.sum {
+  bottom: 1.1em
+}
+
+/*span:hover{color:#E53935}
 
 .containers {
   width: 520px;
