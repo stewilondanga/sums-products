@@ -52,7 +52,11 @@ sup {
   bottom: 1em
 }
 
-/*sub{top:.2em}sub.sum{top:0}sup.sum{bottom:1.1em}span:hover{color:#E53935}
+sub {
+  top: .2em
+}
+
+/*sub.sum{top:0}sup.sum{bottom:1.1em}span:hover{color:#E53935}
 
 .containers {
   width: 520px;
