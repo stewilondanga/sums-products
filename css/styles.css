@@ -64,9 +64,11 @@ sup.sum {
   bottom: 1.1em
 }
 
-/*span:hover{color:#E53935}
+span:hover {
+  color: #E53935
+}
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
